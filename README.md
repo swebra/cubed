@@ -1,6 +1,6 @@
 # [Cubed](http://www.imswebra.com/projects/cubed/)
 ![](Cubed.png)
-This respository serves as a download for the source files of the project showcased [on imswebra.com](http://www.imswebra.com/projects/cubed/). Visit this page for more information.
+This repository serves as a download for the source files of the project showcased [on imswebra.com](http://www.imswebra.com/projects/cubed/). Visit this page for more information.
 
 ## Missing Files
 - HDR file used for global lighting in Blender
